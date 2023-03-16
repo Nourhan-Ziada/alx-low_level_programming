@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main is entry point
+ * main - entry point
  * Descripation: prints "\"Programming is like building a multilingual puzzle" 
- * return: end of program 
+ * Return: 0
  */
 
 int main(void)
