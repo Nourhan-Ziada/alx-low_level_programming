@@ -2,8 +2,8 @@
 
 /**
  * main is entry point
- * Descripation for fn: prints "\"Programming is like building a multilingual puzzle" 
- * return 0 end of program 
+ * Descripation: prints "\"Programming is like building a multilingual puzzle" 
+ * return: end of program 
  */
 
 int main(void)
